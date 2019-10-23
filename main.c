@@ -9,12 +9,14 @@
 #include <time.h>
 #include <stdbool.h>
 
-//Aggiunto un commento per effettuare push e commit su Git
+//Aggiunto un commento per effettuare push e commit su Gitl
+
 
 
 #define MIN 0
 #define MAX  100
-
+int prova;
+int prova ;
 int generazioneNumero(int min, int max);
 int main() {
 
