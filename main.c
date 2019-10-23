@@ -9,6 +9,8 @@
 #include <time.h>
 #include <stdbool.h>
 
+//Aggiunto un commento per effettuare push e commit su Git
+
 
 #define MIN 0
 #define MAX  100
